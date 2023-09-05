@@ -1,0 +1,11 @@
+{
+  "nft_schema_code": "chachak.test.membership.v0.01",
+  "token_id": "1",
+  "token_owner": "6x1fklaucr9xtxtw47wj9w8e9luydprpmdmu3zjaw",
+  "owner_address_type": "INTERNAL_ADDRESS",
+  "origin_image": "https://techsauce-nft.sixprotocol.com/techsauce/1.png",
+  "onchain_image": "",
+  "token_uri": "",
+  "origin_attributes": [],
+  "onchain_attributes": []
+}
